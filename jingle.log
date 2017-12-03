@@ -1,2 +1,2 @@
-[000:000] Resolving addr in PhysicalSocket::Connect
-[000:887] Signalled with DE_CONNECT: 6
+[667:095] Resolving addr in PhysicalSocket::Connect
+[667:316] Signalled with DE_CONNECT: 6
